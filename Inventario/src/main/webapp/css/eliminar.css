@@ -1,0 +1,26 @@
+.container{
+	width: 650px;
+	margin-top: 170px;
+	padding-top: 0px;
+	
+}
+
+
+form{
+	text-align:justify-content;
+	padding-top:5px;
+	padding-left:35%;
+	padding-right:10%;
+	padding-bottom:20px;
+	border-radius: 10px;
+}
+
+label{
+	font-size:17px;
+}
+
+body{
+	 background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/55/90/02/06/700_FO55900206_dedca62613abebbef8d7287b7b893e88.jpg,670,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,450,650,jpg)/almohadas-largas-lineas-onduladas-rojas-y-grises.jpg.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}

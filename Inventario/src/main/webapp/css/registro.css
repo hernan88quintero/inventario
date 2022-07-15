@@ -1,0 +1,22 @@
+.container{
+	width: 650px;
+	margin-top: 150px;
+	padding-top: 0px;
+	
+}
+
+.container-fluid{
+	border-radius: 10px;
+	
+}
+
+form{
+	padding-top:10px;
+	border-radius: 10px;
+}
+
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Hpl_IXyuEzJK_xRGv5k1XyDXg_VY58VBeMB69yqrUHKwsD9LUG8FiTkeHZRBB3l3jgU&usqp=CAU");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}

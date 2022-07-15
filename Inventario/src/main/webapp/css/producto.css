@@ -1,0 +1,26 @@
+.container{
+	width: 650px;
+	margin-top: 170px;
+	padding-top: 0px;
+	
+}
+
+
+form{
+	text-align:justify-content;
+	padding-top:5px;
+	padding-left:35%;
+	padding-right:10%;
+	padding-bottom:20px;
+	border-radius: 10px;
+}
+
+label{
+	font-size:17px;
+}
+
+body{
+	 background-image: url("https://static.vecteezy.com/system/resources/previews/001/176/927/non_2x/blue-and-white-abstract-background-vector.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
